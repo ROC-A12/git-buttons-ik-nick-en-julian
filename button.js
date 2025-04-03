@@ -4,10 +4,12 @@ const motds = [
     "GOTY!",
     "Limited edition!",
     "It's here!",
-    "More than 500 sold!",
+    "More than 999 sold!",
     "Holy cow, man!",
     "The bee's knees!",
-    "Ceci n'est pas une title screen!",
+    "Spesgoat",
+    "POEKOEMASTER5000",
+    "FE!NMASTER7",
 ];
 
 const getRandomInt = function(min, max) {
